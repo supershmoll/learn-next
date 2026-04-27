@@ -1,4 +1,4 @@
-import { Lusitana } from 'next/font/google';
+import { lusitana } from '@/app/ui/fonts';
 import {
   AtSymbolIcon,
   KeyIcon,
